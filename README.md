@@ -150,7 +150,6 @@ terpisah. Modifikasi juga mempertahankan mekanisme inti permainan
 seperti skor, nyawa, paddle, pantulan bola, pause, menang, dan game
 over.
 
-------------------------------------------------------------------------
 
 **Catatan:** README ini menjelaskan fitur dan perubahan berdasarkan
 versi kode proyek yang dibahas. Jika implementasi kode di komputer
