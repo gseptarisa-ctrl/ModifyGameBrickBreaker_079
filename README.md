@@ -3,7 +3,7 @@
 ## 1. Deskripsi Proyek
 
 Hello Kitty Pink Brick Breaker merupakan modifikasi dari permainan
-klasik **Brick Breaker** yang dibuat menggunakan Python dan Pygame. Pada
+klasik Brick Breaker yang dibuat menggunakan Python dan Pygame. Pada
 versi ini, tampilan permainan diubah menjadi tema pastel pink dan kawaii
 dengan karakter Hello Kitty sebagai balok yang harus dihancurkan oleh
 bola.
